@@ -1,0 +1,1 @@
+# terraform-modules-aws-lambda-at-edge-cognito-authorizer
