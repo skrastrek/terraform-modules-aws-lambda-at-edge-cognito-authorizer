@@ -1,5 +1,5 @@
 {
-  "name": "lambda-cognito-authorizer",
+  "name": "lambda-at-edge-cognito-authorizer",
   "version": "1.0.0",
   "private": true,
   "main": "src/index.ts",
