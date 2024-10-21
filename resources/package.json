@@ -1,6 +1,7 @@
 {
   "name": "lambda-cognito-authorizer",
   "version": "1.0.0",
+  "private": true,
   "main": "src/index.ts",
   "dependencies": {
     "cognito-at-edge": "^1.5.3"
