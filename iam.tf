@@ -17,7 +17,7 @@ resource "aws_iam_role_policy_attachment" "aws_lambda_basic_execution_role" {
 }
 
 module "config_secrets_manager_secret_read" {
-  source = "github.com/skrastrek/terraform-modules-aws-iam//role-policy/secrets-manager-secret-read?ref=v0.1.2"
+  source = "github.com/skrastrek/terraform-modules-aws-iam//role-policy/secrets-manager-secret-read?ref=v0.2.0"
 
   role_name   = aws_iam_role.this.name
   policy_name = "config-secret-read"
