@@ -9,7 +9,7 @@
   "devDependencies": {
     "@aws-sdk/client-secrets-manager": "^3.777.0",
     "@types/aws-lambda": "^8.10.148",
-    "@types/node": "^22.13.8",
+    "@types/node": "^22.14.0",
     "esbuild": "^0.25.2"
   },
   "scripts": {
