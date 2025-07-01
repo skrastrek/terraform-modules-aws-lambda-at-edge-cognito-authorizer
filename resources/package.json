@@ -7,9 +7,9 @@
     "cognito-at-edge": "^1.5.3"
   },
   "devDependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.821.0",
-    "@types/aws-lambda": "^8.10.149",
-    "@types/node": "^22.15.29",
+    "@aws-sdk/client-secrets-manager": "^3.840.0",
+    "@types/aws-lambda": "^8.10.150",
+    "@types/node": "^24.0.8",
     "esbuild": "^0.25.5"
   },
   "scripts": {
