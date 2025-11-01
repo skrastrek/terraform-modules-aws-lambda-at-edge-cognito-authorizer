@@ -4,7 +4,7 @@
   "private": true,
   "main": "src/index.ts",
   "dependencies": {
-    "cognito-at-edge": "^1.5.3"
+    "cognito-at-edge": "^1.5.4"
   },
   "devDependencies": {
     "@aws-sdk/client-secrets-manager": "^3.899.0",
